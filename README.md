@@ -1,2 +1,3 @@
 # ATM-interface-in-c
-author : Ayush kumar Jha
+author : Ayush Kumar Jha 
+Submited to : Professor Omair Ahmad 
